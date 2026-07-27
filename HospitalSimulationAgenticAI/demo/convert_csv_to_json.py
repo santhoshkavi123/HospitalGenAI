@@ -10,6 +10,9 @@ JSON_OUTPUT_PATH = os.path.join(BASE_DIR, "static", "patients.json")
 def convert():
     print(f"Reading CSV from: {CSV_PATH}")
     if not os.path.exists(CSV_PATH):
+        if os.path.exists(JSON_OUTPUT_PATH):
+            print(f"Source CSV not found at {CSV_PATH}, but {JSON_OUTPUT_PATH} already exists. Using existing JSON.")
+            return
         raise FileNotFoundError(f"Source CSV not found at {CSV_PATH}")
 
     patients = []

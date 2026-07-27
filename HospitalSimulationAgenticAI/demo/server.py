@@ -19,6 +19,8 @@ try:
         df = pd.read_csv(DATASET_PATH)
         # Drop unnamed columns if any
         df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+    elif os.path.exists(os.path.join(BASE_DIR, "static", "patients.json")):
+        df = pd.read_json(os.path.join(BASE_DIR, "static", "patients.json"))
     else:
         # Fallback dummy data if dataset is missing
         df = pd.DataFrame([

@@ -30,6 +30,10 @@ jobs:
         run: |
           python -m py_compile models.py SystheticDataGenerationPatient.py demo/convert_csv_to_json.py demo/server.py
 
+      - name: Test CSV to JSON Conversion
+        run: |
+          python demo/convert_csv_to_json.py
+
       - name: Run Pytest Suite
         run: |
           pytest tests/ -v

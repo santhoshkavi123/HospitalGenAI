@@ -1,0 +1,350 @@
+,Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,First_Name,Last_Name,Patient_ID,Full_Name
+0,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,Aanya,Sharma,PAT1000000001,Aanya_Sharma
+1,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Aaradhya,Patel,PAT1000000002,Aaradhya_Patel
+2,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Aarohi,Verma,PAT1000000003,Aarohi_Verma
+3,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Aditi,Gupta,PAT1000000004,Aditi_Gupta
+4,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Ahana,Singh,PAT1000000005,Ahana_Singh
+5,Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,Akshara,Iyer,PAT1000000006,Akshara_Iyer
+6,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Amrita,Nair,PAT1000000007,Amrita_Nair
+7,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Ananya,Joshi,PAT1000000008,Ananya_Joshi
+8,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Anika,Reddy,PAT1000000009,Anika_Reddy
+9,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Anisha,Rao,PAT1000000010,Anisha_Rao
+10,Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,Anjali,Mehta,PAT1000000011,Anjali_Mehta
+11,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,Ankita,Shah,PAT1000000012,Ankita_Shah
+12,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Anushka,Mishra,PAT1000000013,Anushka_Mishra
+13,Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,Archana,Pandey,PAT1000000014,Archana_Pandey
+14,Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,Arpita,Trivedi,PAT1000000015,Arpita_Trivedi
+15,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Asha,Kulkarni,PAT1000000016,Asha_Kulkarni
+16,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Avani,Deshmukh,PAT1000000017,Avani_Deshmukh
+17,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Ayushi,Patil,PAT1000000018,Ayushi_Patil
+18,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Bhumi,Yadav,PAT1000000019,Bhumi_Yadav
+19,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Chandani,Prasad,PAT1000000020,Chandani_Prasad
+20,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Charu,Agarwal,PAT1000000021,Charu_Agarwal
+21,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Damini,Bansal,PAT1000000022,Damini_Bansal
+22,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Deepika,Goel,PAT1000000023,Deepika_Goel
+23,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Deepti,Jain,PAT1000000024,Deepti_Jain
+24,Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,Divya,Saxena,PAT1000000025,Divya_Saxena
+25,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Ekta,Srivastava,PAT1000000026,Ekta_Srivastava
+26,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Eshwari,Choudhary,PAT1000000027,Eshwari_Choudhary
+27,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,Garima,Bhat,PAT1000000028,Garima_Bhat
+28,Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,Gayatri,Bhatia,PAT1000000029,Gayatri_Bhatia
+29,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Geeta,Sen,PAT1000000030,Geeta_Sen
+30,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Gitanjali,Das,PAT1000000031,Gitanjali_Das
+31,Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,Gauri,Chatterjee,PAT1000000032,Gauri_Chatterjee
+32,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Harini,Banerjee,PAT1000000033,Harini_Banerjee
+33,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Harshita,Mukherjee,PAT1000000034,Harshita_Mukherjee
+34,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Hema,Bose,PAT1000000035,Hema_Bose
+35,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Hina,Dutta,PAT1000000036,Hina_Dutta
+36,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Ila,Ghosh,PAT1000000037,Ila_Ghosh
+37,Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,Indu,Roy,PAT1000000038,Indu_Roy
+38,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,Ishani,Kar,PAT1000000039,Ishani_Kar
+39,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Ishita,Pillai,PAT1000000040,Ishita_Pillai
+40,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Jagriti,Menon,PAT1000000041,Jagriti_Menon
+41,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,Janvi,Kurian,PAT1000000042,Janvi_Kurian
+42,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,Jasmine,Joseph,PAT1000000043,Jasmine_Joseph
+43,Eczema,Yes,No,No,No,30,Male,High,High,Positive,Jyoti,Thomas,PAT1000000044,Jyoti_Thomas
+44,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,Kajal,Matthew,PAT1000000045,Kajal_Matthew
+45,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,Kalpana,Varghese,PAT1000000046,Kalpana_Varghese
+46,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Kamya,Naidu,PAT1000000047,Kamya_Naidu
+47,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Kanishka,Sastry,PAT1000000048,Kanishka_Sastry
+48,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Karishma,Murthy,PAT1000000049,Karishma_Murthy
+49,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,Kavita,Hegde,PAT1000000050,Kavita_Hegde
+50,Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,Khushi,Pai,PAT1000000051,Khushi_Pai
+51,Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,Kiran,Shenoy,PAT1000000052,Kiran_Shenoy
+52,Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,Kirti,Prabhu,PAT1000000053,Kirti_Prabhu
+53,Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,Komal,Kamath,PAT1000000054,Komal_Kamath
+54,Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,Krisha,Sawant,PAT1000000055,Krisha_Sawant
+55,Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,Kritika,Shinde,PAT1000000056,Kritika_Shinde
+56,Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,Lalita,More,PAT1000000057,Lalita_More
+57,Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Leela,Kadam,PAT1000000058,Leela_Kadam
+58,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Madhavi,Jadhav,PAT1000000059,Madhavi_Jadhav
+59,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Madhu,Apte,PAT1000000060,Madhu_Apte
+60,Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,Mahima,Gokhale,PAT1000000061,Mahima_Gokhale
+61,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,Malati,Ranade,PAT1000000062,Malati_Ranade
+62,Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,Manisha,Karve,PAT1000000063,Manisha_Karve
+63,Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,Manju,Phadke,PAT1000000064,Manju_Phadke
+64,Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Mansi,Date,PAT1000000065,Mansi_Date
+65,Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Meera,Sathe,PAT1000000066,Meera_Sathe
+66,Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Megha,Pendse,PAT1000000067,Megha_Pendse
+67,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Meenal,Gore,PAT1000000068,Meenal_Gore
+68,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Mithila,Limaye,PAT1000000069,Mithila_Limaye
+69,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Mohini,Godbole,PAT1000000070,Mohini_Godbole
+70,Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,Monica,Kelkar,PAT1000000071,Monica_Kelkar
+71,Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Mukta,Bhave,PAT1000000072,Mukta_Bhave
+72,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Muskan,Gadgil,PAT1000000073,Muskan_Gadgil
+73,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Myra,Agashe,PAT1000000074,Myra_Agashe
+74,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,Naina,Abhyankar,PAT1000000075,Naina_Abhyankar
+75,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Nalini,Chiplunkar,PAT1000000076,Nalini_Chiplunkar
+76,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Namrata,Paranjpe,PAT1000000077,Namrata_Paranjpe
+77,Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,Nandini,Athavale,PAT1000000078,Nandini_Athavale
+78,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,Natasha,Sohoni,PAT1000000079,Natasha_Sohoni
+79,Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Neha,Oak,PAT1000000080,Neha_Oak
+80,Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,Nidhi,Vaidya,PAT1000000081,Nidhi_Vaidya
+81,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Nikita,Kanitkar,PAT1000000082,Nikita_Kanitkar
+82,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Nisha,Deodhar,PAT1000000083,Nisha_Deodhar
+83,Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Nithya,Phatak,PAT1000000084,Nithya_Phatak
+84,Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Nivedita,Dongre,PAT1000000085,Nivedita_Dongre
+85,Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,Noopur,Modak,PAT1000000086,Noopur_Modak
+86,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Nutan,Bapat,PAT1000000087,Nutan_Bapat
+87,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Ojaswini,Bhagwat,PAT1000000088,Ojaswini_Bhagwat
+88,Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Pallavi,Sahasrabuddhe,PAT1000000089,Pallavi_Sahasrabuddhe
+89,Migraine,Yes,No,No,No,35,Male,High,High,Positive,Parul,Dixit,PAT1000000090,Parul_Dixit
+90,Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Payal,Pathak,PAT1000000091,Payal_Pathak
+91,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Pooja,Dwivedi,PAT1000000092,Pooja_Dwivedi
+92,Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Poonam,Chaturvedi,PAT1000000093,Poonam_Chaturvedi
+93,Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,Prachi,Tripathi,PAT1000000094,Prachi_Tripathi
+94,Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Pragya,Tiwari,PAT1000000095,Pragya_Tiwari
+95,Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Pratibha,Shukla,PAT1000000096,Pratibha_Shukla
+96,Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Preeti,Dubey,PAT1000000097,Preeti_Dubey
+97,Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,Prerna,Ojha,PAT1000000098,Prerna_Ojha
+98,Depression,No,No,No,No,38,Female,Normal,High,Negative,Priya,Bajpai,PAT1000000099,Priya_Bajpai
+99,Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Priyanka,Awasthi,PAT1000000100,Priyanka_Awasthi
+100,Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,Rachna,Agnihotri,PAT1000000101,Rachna_Agnihotri
+101,Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,Radha,Shastri,PAT1000000102,Radha_Shastri
+102,Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,Radhika,Purohit,PAT1000000103,Radhika_Purohit
+103,Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,Ragini,Vyas,PAT1000000104,Ragini_Vyas
+104,Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,Rajashree,Acharya,PAT1000000105,Rajashree_Acharya
+105,Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,Rajeshwari,Bhatt,PAT1000000106,Rajeshwari_Bhatt
+106,Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Rakhi,Dave,PAT1000000107,Rakhi_Dave
+107,Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,Rakshita,Pandya,PAT1000000108,Rakshita_Pandya
+108,Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Ramya,Amin,PAT1000000109,Ramya_Amin
+109,Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Rashmi,Desai,PAT1000000110,Rashmi_Desai
+110,Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,Reema,Solanki,PAT1000000111,Reema_Solanki
+111,Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Rekha,Vaghela,PAT1000000112,Rekha_Vaghela
+112,Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Renuka,Parmar,PAT1000000113,Renuka_Parmar
+113,Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,Richa,Gohil,PAT1000000114,Richa_Gohil
+114,Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,Riddhi,Jadeja,PAT1000000115,Riddhi_Jadeja
+115,Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Ritu,Rathod,PAT1000000116,Ritu_Rathod
+116,Diabetes,Yes,No,No,No,40,Female,High,High,Negative,Riya,Chauhan,PAT1000000117,Riya_Chauhan
+117,Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,Rohini,Mori,PAT1000000118,Rohini_Mori
+118,Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Roshni,Zala,PAT1000000119,Roshni_Zala
+119,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Ruby,Chudasama,PAT1000000120,Ruby_Chudasama
+120,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Ruchika,Sarvaiya,PAT1000000121,Ruchika_Sarvaiya
+121,Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,Rupa,Jethwa,PAT1000000122,Rupa_Jethwa
+122,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Rupali,Wala,PAT1000000123,Rupali_Wala
+123,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Sabeena,Khachar,PAT1000000124,Sabeena_Khachar
+124,Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,Sadhana,Kathi,PAT1000000125,Sadhana_Kathi
+125,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Sakshi,Darbar,PAT1000000126,Sakshi_Darbar
+126,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Saloni,Shekhawat,PAT1000000127,Saloni_Shekhawat
+127,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Samaira,Tanwar,PAT1000000128,Samaira_Tanwar
+128,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Samiksha,Sisodia,PAT1000000129,Samiksha_Sisodia
+129,Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,Sanchita,Kushwaha,PAT1000000130,Sanchita_Kushwaha
+130,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,Sandhya,Maurya,PAT1000000131,Sandhya_Maurya
+131,Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Sangeeta,Saini,PAT1000000132,Sangeeta_Saini
+132,Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Sanjana,Koeri,PAT1000000133,Sanjana_Koeri
+133,Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Sanjita,Kurmi,PAT1000000134,Sanjita_Kurmi
+134,Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,Shalu,Ahir,PAT1000000135,Shalu_Ahir
+135,Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,Shanti,Gujjar,PAT1000000136,Shanti_Gujjar
+136,Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,Sharda,Jat,PAT1000000137,Sharda_Jat
+137,Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,Shashi,Bishnoi,PAT1000000138,Shashi_Bishnoi
+138,Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,Sheela,Hooda,PAT1000000139,Sheela_Hooda
+139,Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Shila,Chahal,PAT1000000140,Shila_Chahal
+140,Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,Shikha,Dhillon,PAT1000000141,Shikha_Dhillon
+141,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Shipra,Sandhu,PAT1000000142,Shipra_Sandhu
+142,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Shivani,Gill,PAT1000000143,Shivani_Gill
+143,Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Shobha,Sidhu,PAT1000000144,Shobha_Sidhu
+144,Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,Shradha,Mann,PAT1000000145,Shradha_Mann
+145,Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,Shreya,Grewal,PAT1000000146,Shreya_Grewal
+146,Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,Shrishti,Brar,PAT1000000147,Shrishti_Brar
+147,Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,Shruti,Toor,PAT1000000148,Shruti_Toor
+148,Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Shweta,Shergill,PAT1000000149,Shweta_Shergill
+149,Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,Simran,Cheema,PAT1000000150,Simran_Cheema
+150,Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Sneha,Sekhon,PAT1000000151,Sneha_Sekhon
+151,Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Sona,Kahlon,PAT1000000152,Sona_Kahlon
+152,Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,Sonakshi,Randhawa,PAT1000000153,Sonakshi_Randhawa
+153,Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,Sonali,Bajwa,PAT1000000154,Sonali_Bajwa
+154,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Sonam,Virk,PAT1000000155,Sonam_Virk
+155,Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,Sonia,Bains,PAT1000000156,Sonia_Bains
+156,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Suchitra,Johal,PAT1000000157,Suchitra_Johal
+157,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Sudha,Dhaliwal,PAT1000000158,Sudha_Dhaliwal
+158,Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,Sujata,Atwal,PAT1000000159,Sujata_Atwal
+159,Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,Sukanya,Garewal,PAT1000000160,Sukanya_Garewal
+160,Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,Suman,Deol,PAT1000000161,Suman_Deol
+161,Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,Sunita,Dosanjh,PAT1000000162,Sunita_Dosanjh
+162,Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Supriya,Sanghera,PAT1000000163,Supriya_Sanghera
+163,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Surbhi,Sohal,PAT1000000164,Surbhi_Sohal
+164,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Sushma,Kang,PAT1000000165,Sushma_Kang
+165,Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Swati,Sobti,PAT1000000166,Swati_Sobti
+166,Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Tanvi,Kapoor,PAT1000000167,Tanvi_Kapoor
+167,Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,Tanu,Khanna,PAT1000000168,Tanu_Khanna
+168,Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,Tapasya,Malhotra,PAT1000000169,Tapasya_Malhotra
+169,Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Tara,Puri,PAT1000000170,Tara_Puri
+170,Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Tejal,Sahni,PAT1000000171,Tejal_Sahni
+171,Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Trisha,Grover,PAT1000000172,Trisha_Grover
+172,Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,Tulsi,Mehra,PAT1000000173,Tulsi_Mehra
+173,Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,Uma,Chopra,PAT1000000174,Uma_Chopra
+174,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Urvashi,Oberoi,PAT1000000175,Urvashi_Oberoi
+175,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Vaishali,Sodhi,PAT1000000176,Vaishali_Sodhi
+176,Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,Aarav,Suri,PAT1000000177,Aarav_Suri
+177,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Abhay,Tandon,PAT1000000178,Abhay_Tandon
+178,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Abhimanyu,Bahl,PAT1000000179,Abhimanyu_Bahl
+179,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Abhinav,Nayyar,PAT1000000180,Abhinav_Nayyar
+180,Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Abhishek,Wadhwa,PAT1000000181,Abhishek_Wadhwa
+181,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Adarsh,Batra,PAT1000000182,Adarsh_Batra
+182,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Aditya,Juneja,PAT1000000183,Aditya_Juneja
+183,Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Ajit,Chawla,PAT1000000184,Ajit_Chawla
+184,Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,Akash,Kakkar,PAT1000000185,Akash_Kakkar
+185,Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,Akhil,Luthra,PAT1000000186,Akhil_Luthra
+186,Depression,No,No,Yes,No,45,Female,High,High,Positive,Alok,Madan,PAT1000000187,Alok_Madan
+187,Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,Aman,Monga,PAT1000000188,Aman_Monga
+188,Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,Amar,Bakshi,PAT1000000189,Amar_Bakshi
+189,Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,Amit,Talwar,PAT1000000190,Amit_Talwar
+190,Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Amol,Sareen,PAT1000000191,Amol_Sareen
+191,Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Amrit,Chadha,PAT1000000192,Amrit_Chadha
+192,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Anand,Gujral,PAT1000000193,Anand_Gujral
+193,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Anant,Ahluwalia,PAT1000000194,Anant_Ahluwalia
+194,Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,Aniket,Sawhney,PAT1000000195,Aniket_Sawhney
+195,Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Anil,Kohli,PAT1000000196,Anil_Kohli
+196,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,Aniruddh,Bhasin,PAT1000000197,Aniruddh_Bhasin
+197,Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,Ankit,Bhalla,PAT1000000198,Ankit_Bhalla
+198,Scoliosis,No,No,No,No,45,Female,High,High,Positive,Ankur,Nanda,PAT1000000199,Ankur_Nanda
+199,Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Anshul,Vohra,PAT1000000200,Anshul_Vohra
+200,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Anuj,Dewan,PAT1000000201,Anuj_Dewan
+201,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Anupam,Thapar,PAT1000000202,Anupam_Thapar
+202,Hypertension,No,No,No,No,48,Female,Low,High,Negative,Anurag,Mago,PAT1000000203,Anurag_Mago
+203,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Apoorv,Syal,PAT1000000204,Apoorv_Syal
+204,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Arjun,Sikka,PAT1000000205,Arjun_Sikka
+205,Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,Arun,Khosla,PAT1000000206,Arun_Khosla
+206,Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Arvind,Ghai,PAT1000000207,Arvind_Ghai
+207,Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,Aryan,Sharma,PAT1000000208,Aryan_Sharma
+208,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Ashish,Patel,PAT1000000209,Ashish_Patel
+209,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Ashok,Verma,PAT1000000210,Ashok_Verma
+210,Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Ashutosh,Gupta,PAT1000000211,Ashutosh_Gupta
+211,Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Ashwin,Singh,PAT1000000212,Ashwin_Singh
+212,Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,Atul,Iyer,PAT1000000213,Atul_Iyer
+213,Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,Avinash,Nair,PAT1000000214,Avinash_Nair
+214,Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Ayush,Joshi,PAT1000000215,Ayush_Joshi
+215,Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Baldev,Reddy,PAT1000000216,Baldev_Reddy
+216,Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Balram,Rao,PAT1000000217,Balram_Rao
+217,Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,Bharat,Mehta,PAT1000000218,Bharat_Mehta
+218,Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,Bhaskar,Shah,PAT1000000219,Bhaskar_Shah
+219,Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Bhupendra,Mishra,PAT1000000220,Bhupendra_Mishra
+220,Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Bhuvan,Pandey,PAT1000000221,Bhuvan_Pandey
+221,Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,Bimal,Trivedi,PAT1000000222,Bimal_Trivedi
+222,Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Chandan,Kulkarni,PAT1000000223,Chandan_Kulkarni
+223,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Chandra,Deshmukh,PAT1000000224,Chandra_Deshmukh
+224,Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,Chetan,Patil,PAT1000000225,Chetan_Patil
+225,Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,Chirag,Yadav,PAT1000000226,Chirag_Yadav
+226,Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Darshan,Prasad,PAT1000000227,Darshan_Prasad
+227,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Deepak,Agarwal,PAT1000000228,Deepak_Agarwal
+228,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Dev,Bansal,PAT1000000229,Dev_Bansal
+229,Eczema,No,Yes,No,No,50,Female,High,High,Positive,Devendra,Goel,PAT1000000230,Devendra_Goel
+230,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,Dhruv,Jain,PAT1000000231,Dhruv_Jain
+231,Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Digvijay,Saxena,PAT1000000232,Digvijay_Saxena
+232,Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,Dilip,Srivastava,PAT1000000233,Dilip_Srivastava
+233,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Dinesh,Choudhary,PAT1000000234,Dinesh_Choudhary
+234,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Divyansh,Bhat,PAT1000000235,Divyansh_Bhat
+235,Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Durgesh,Bhatia,PAT1000000236,Durgesh_Bhatia
+236,Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Gagan,Sen,PAT1000000237,Gagan_Sen
+237,Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Gajendra,Das,PAT1000000238,Gajendra_Das
+238,Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,Ganesh,Chatterjee,PAT1000000239,Ganesh_Chatterjee
+239,Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,Gaurav,Banerjee,PAT1000000240,Gaurav_Banerjee
+240,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Gautam,Mukherjee,PAT1000000241,Gautam_Mukherjee
+241,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Girish,Bose,PAT1000000242,Girish_Bose
+242,Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,Gopal,Dutta,PAT1000000243,Gopal_Dutta
+243,Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,Govind,Ghosh,PAT1000000244,Govind_Ghosh
+244,Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,Gulshan,Roy,PAT1000000245,Gulshan_Roy
+245,Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,Hari,Kar,PAT1000000246,Hari_Kar
+246,Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,Harish,Pillai,PAT1000000247,Harish_Pillai
+247,Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,Harshal,Menon,PAT1000000248,Harshal_Menon
+248,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Harsh,Kurian,PAT1000000249,Harsh_Kurian
+249,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Hemant,Joseph,PAT1000000250,Hemant_Joseph
+250,Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,Himanshu,Thomas,PAT1000000251,Himanshu_Thomas
+251,Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,Hitendra,Matthew,PAT1000000252,Hitendra_Matthew
+252,Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,Inder,Varghese,PAT1000000253,Inder_Varghese
+253,Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Ishwar,Naidu,PAT1000000254,Ishwar_Naidu
+254,Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,Jagdish,Sastry,PAT1000000255,Jagdish_Sastry
+255,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Jaideep,Murthy,PAT1000000256,Jaideep_Murthy
+256,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Jitendra,Hegde,PAT1000000257,Jitendra_Hegde
+257,Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Kabir,Pai,PAT1000000258,Kabir_Pai
+258,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Kailash,Shenoy,PAT1000000259,Kailash_Shenoy
+259,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Kalyan,Prabhu,PAT1000000260,Kalyan_Prabhu
+260,Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Kamal,Kamath,PAT1000000261,Kamal_Kamath
+261,Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Kapil,Sawant,PAT1000000262,Kapil_Sawant
+262,Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,Karan,Shinde,PAT1000000263,Karan_Shinde
+263,Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,Kartik,More,PAT1000000264,Kartik_More
+264,Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,Kaushal,Kadam,PAT1000000265,Kaushal_Kadam
+265,Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,Kavi,Jadhav,PAT1000000266,Kavi_Jadhav
+266,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Keshav,Apte,PAT1000000267,Keshav_Apte
+267,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Kiran,Gokhale,PAT1000000268,Kiran_Gokhale
+268,Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,Kishore,Ranade,PAT1000000269,Kishore_Ranade
+269,Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Krunal,Karve,PAT1000000270,Krunal_Karve
+270,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Kuldeep,Phadke,PAT1000000271,Kuldeep_Phadke
+271,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Kunal,Date,PAT1000000272,Kunal_Date
+272,Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,Kushal,Sathe,PAT1000000273,Kushal_Sathe
+273,Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,Lakshman,Pendse,PAT1000000274,Lakshman_Pendse
+274,Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,Lakshya,Gore,PAT1000000275,Lakshya_Gore
+275,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Lalit,Limaye,PAT1000000276,Lalit_Limaye
+276,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Lokesh,Godbole,PAT1000000277,Lokesh_Godbole
+277,Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,Madhav,Kelkar,PAT1000000278,Madhav_Kelkar
+278,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Madhusudan,Bhave,PAT1000000279,Madhusudan_Bhave
+279,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Mahendra,Gadgil,PAT1000000280,Mahendra_Gadgil
+280,Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,Mahesh,Agashe,PAT1000000281,Mahesh_Agashe
+281,Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,Manish,Abhyankar,PAT1000000282,Manish_Abhyankar
+282,Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,Manmohan,Chiplunkar,PAT1000000283,Manmohan_Chiplunkar
+283,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Manoj,Paranjpe,PAT1000000284,Manoj_Paranjpe
+284,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Mayank,Athavale,PAT1000000285,Mayank_Athavale
+285,Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,Milind,Sohoni,PAT1000000286,Milind_Sohoni
+286,Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Mitul,Oak,PAT1000000287,Mitul_Oak
+287,Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Mohit,Vaidya,PAT1000000288,Mohit_Vaidya
+288,Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Monish,Kanitkar,PAT1000000289,Monish_Kanitkar
+289,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Mukund,Deodhar,PAT1000000290,Mukund_Deodhar
+290,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Murali,Phatak,PAT1000000291,Murali_Phatak
+291,Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Nakul,Dongre,PAT1000000292,Nakul_Dongre
+292,Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,Naman,Modak,PAT1000000293,Naman_Modak
+293,Hypertension,No,No,No,No,60,Female,High,High,Positive,Narendra,Bapat,PAT1000000294,Narendra_Bapat
+294,Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Naresh,Bhagwat,PAT1000000295,Naresh_Bhagwat
+295,Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Naveen,Sahasrabuddhe,PAT1000000296,Naveen_Sahasrabuddhe
+296,Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,Navneet,Dixit,PAT1000000297,Navneet_Dixit
+297,Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Nayak,Pathak,PAT1000000298,Nayak_Pathak
+298,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Neeraj,Dwivedi,PAT1000000299,Neeraj_Dwivedi
+299,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Nihal,Chaturvedi,PAT1000000300,Nihal_Chaturvedi
+300,Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,Nikhil,Tripathi,PAT1000000301,Nikhil_Tripathi
+301,Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Nilesh,Tiwari,PAT1000000302,Nilesh_Tiwari
+302,Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Nipun,Shukla,PAT1000000303,Nipun_Shukla
+303,Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Niraj,Dubey,PAT1000000304,Niraj_Dubey
+304,Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,Nitin,Ojha,PAT1000000305,Nitin_Ojha
+305,Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,Nitish,Bajpai,PAT1000000306,Nitish_Bajpai
+306,Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Omkar,Awasthi,PAT1000000307,Omkar_Awasthi
+307,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Pankaj,Agnihotri,PAT1000000308,Pankaj_Agnihotri
+308,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Paras,Shastri,PAT1000000309,Paras_Shastri
+309,Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Parmeet,Purohit,PAT1000000310,Parmeet_Purohit
+310,Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,Parth,Vyas,PAT1000000311,Parth_Vyas
+311,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Pawan,Acharya,PAT1000000312,Pawan_Acharya
+312,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Piyush,Bhatt,PAT1000000313,Piyush_Bhatt
+313,Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,Prabhat,Dave,PAT1000000314,Prabhat_Dave
+314,Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,Pradeep,Pandya,PAT1000000315,Pradeep_Pandya
+315,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Pranav,Amin,PAT1000000316,Pranav_Amin
+316,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Pranay,Desai,PAT1000000317,Pranay_Desai
+317,Dementia,No,No,Yes,No,65,Female,High,High,Positive,Prasad,Solanki,PAT1000000318,Prasad_Solanki
+318,Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,Prasanna,Vaghela,PAT1000000319,Prasanna_Vaghela
+319,Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Prashant,Parmar,PAT1000000320,Prashant_Parmar
+320,Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Prateek,Gohil,PAT1000000321,Prateek_Gohil
+321,Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Prathamesh,Jadeja,PAT1000000322,Prathamesh_Jadeja
+322,Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,Pratyush,Rathod,PAT1000000323,Pratyush_Rathod
+323,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Praveen,Chauhan,PAT1000000324,Praveen_Chauhan
+324,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Pravin,Mori,PAT1000000325,Pravin_Mori
+325,Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,Prem,Zala,PAT1000000326,Prem_Zala
+326,Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Puneet,Chudasama,PAT1000000327,Puneet_Chudasama
+327,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Raghav,Sarvaiya,PAT1000000328,Raghav_Sarvaiya
+328,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Raghu,Jethwa,PAT1000000329,Raghu_Jethwa
+329,Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,Rahul,Wala,PAT1000000330,Rahul_Wala
+330,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Raj,Khachar,PAT1000000331,Raj_Khachar
+331,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Rajan,Kathi,PAT1000000332,Rajan_Kathi
+332,Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,Rajat,Darbar,PAT1000000333,Rajat_Darbar
+333,Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,Rajeev,Shekhawat,PAT1000000334,Rajeev_Shekhawat
+334,Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,Rajendra,Tanwar,PAT1000000335,Rajendra_Tanwar
+335,Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Rajesh,Sisodia,PAT1000000336,Rajesh_Sisodia
+336,Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,Rajiv,Kushwaha,PAT1000000337,Rajiv_Kushwaha
+337,Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Rajkumar,Maurya,PAT1000000338,Rajkumar_Maurya
+338,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Rakesh,Saini,PAT1000000339,Rakesh_Saini
+339,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Ram,Koeri,PAT1000000340,Ram_Koeri
+340,Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Raman,Kurmi,PAT1000000341,Raman_Kurmi
+341,Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,Ramesh,Ahir,PAT1000000342,Ramesh_Ahir
+342,Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,Ranveer,Gujjar,PAT1000000343,Ranveer_Gujjar
+343,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Ravi,Jat,PAT1000000344,Ravi_Jat
+344,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Ravindra,Bishnoi,PAT1000000345,Ravindra_Bishnoi
+345,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Rishi,Hooda,PAT1000000346,Rishi_Hooda
+346,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Rohan,Chahal,PAT1000000347,Rohan_Chahal
+347,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Rohit,Dhillon,PAT1000000348,Rohit_Dhillon
+348,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Ronak,Sandhu,PAT1000000349,Ronak_Sandhu
